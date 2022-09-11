@@ -1,5 +1,5 @@
-### Hi there 👋
-![Nik's GitHub stats](https://github-readme-stats.vercel.app/api?username=nek-to&hide=contribs,prs&theme=merko)
+### Hi there, I'm Nik 👋
+![Nik's GitHub stats](https://github-readme-stats.vercel.app/api?username=nek-to&theme=merko)
 
 <!--
 **nek-to/nek-to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
