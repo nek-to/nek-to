@@ -1,8 +1,8 @@
 ### Hi there, I'm Nik 👋
-![Nik's GitHub stats](https://github-readme-stats.vercel.app/api?username=nek-to&theme=radical&show_icons=true)
+![Nik's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=nek-to&theme=radical&show_icons=true)
 
 <a href="https://github.com/nek-to/KKOApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nek-to&repo=KKOApp&theme=radical&description" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=nek-to&repo=KKOApp&theme=radical&description" />
 </a>
 <!--
 **nek-to/nek-to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
